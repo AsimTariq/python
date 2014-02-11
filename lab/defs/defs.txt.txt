@@ -1,0 +1,34 @@
+mkdir = lager nytt document/folder
+
+cd = denne kommandoen står for "change directory" med denne kan du enten gå opp en folder eller ned.
+
+ls= Lister informasjonen om filene som er i den folderen.
+
+ls -l = bruker en lang listing format disse informasjonene får du opp:
+"Permissions"
+"Number of hardlinks"
+"File owner"
+"File group"
+"File size"
+"Modification time"
+"Filename"
+
+ls -la =  
+
+pwd = står for "print working directory", skriver ut path som er under arbeid nå.
+
+"pipes and redirection" = 
+Pipes = pipes tillater deg å trakt output fra en kommando til en annen der det vil bli brukt som input. Med andre ord, blir standard ut fra ett program standard input til en annen.
+Redirection = ligner på pipes bortsett bruker filer i stedet for et annet program. Standard ut for et program er skjermen. Bruke> (større enn) symbol på produksjonen av et program kan sendes til en fil
+
+CAT = viser disse tilstandene:
+"Display text files on screen."
+"Copy text files."
+"Combine text files."
+"Create new text files"
+
+GREP= commandoen er brukt for å søke etter text eller string/word som er i et fil. 
+
+LESS= er en terminal page program som ser på text filer(forandrer ikke) på en skjerm av gangen. den ligner "more" kommando men har kapabilitet til å navigere foran eller bak gjennom et fil. 
+
+
